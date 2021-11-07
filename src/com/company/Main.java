@@ -20,7 +20,13 @@ public class Main {
         FeaturePlanet melkor = new FeaturePlanet();
         melkor.mass = "56758787KG";
         melkor.color="Red";
-        melkor.radius = 654654";
+        melkor.radius = "654654M";
+        melkor.temp = "85F";
+
+        FeaturePlanet jupiter = new FeaturePlanet();
+        melkor.mass = "56758787KG";
+        melkor.color="Red";
+        melkor.radius = "654654M";
         melkor.temp = "85F";
     }
 }
