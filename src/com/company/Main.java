@@ -17,5 +17,10 @@ public class Main {
         mikesun.radius="9000000km";
         mikesun.maritalStatus="in love with asghar";
 
+        FeaturePlanet melkor = new FeaturePlanet();
+        melkor.mass = "56758787KG";
+        melkor.color="Red";
+        melkor.radius = 654654";
+        melkor.temp = "85F";
     }
 }
