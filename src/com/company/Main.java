@@ -29,6 +29,7 @@ public class Main {
         melkor.radius = "654654M";
         melkor.temp = "85F";
 
+
         Planet123 planet2 = new Planet123();
         planet2.color = "BLUE";
         planet2.mass= ".r757567t57K";
@@ -37,5 +38,3 @@ public class Main {
 
 
 
-    }
-}
