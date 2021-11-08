@@ -33,6 +33,10 @@ public class Main {
         planet2.color = "BLUE";
         planet2.mass= ".r757567t57K";
         planet2.temp="Hot Hot Hot";
+
+        Venus venus = new Venus();
+        venus.name = "Joe Planet";
+
         
 
 
