@@ -29,10 +29,13 @@ public class Main {
         melkor.radius = "654654M";
         melkor.temp = "85F";
 
-        FeaturePlanet planet1 = new FeaturePlanet();
-        planet1.mass = "56758787KG";
-        planet1.color="Red";
-        planet1.radius = "654654M";
-        planet1.temp = "85F";
+        Planet123 planet2 = new Planet123();
+        planet2.color = "BLUE";
+        planet2.mass= ".r757567t57K";
+        planet2.temp="Hot Hot Hot";
+        
+
+
+
     }
 }
