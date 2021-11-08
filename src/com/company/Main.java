@@ -10,7 +10,7 @@ public class Main {
         andromeda.planet=2;
         andromeda.moon=4;
 
-        featureSun mikesun = new featureSun();
+        FeatureSun mikesun = new FeatureSun();
         mikesun.color="Red";
         mikesun.heat="888881111111111111kj";
         mikesun.temp="60000545454454545kelvin";
@@ -29,10 +29,12 @@ public class Main {
         melkor.radius = "654654M";
         melkor.temp = "85F";
 
-        FeaturePlanet planet1 = new FeaturePlanet();
-        planet1.mass = "56758787KG";
-        planet1.color="Red";
-        planet1.radius = "654654M";
-        planet1.temp = "85F";
-    }
-}
+
+        Planet123 planet2 = new Planet123();
+        planet2.color = "BLUE";
+        planet2.mass= ".r757567t57K";
+        planet2.temp="Hot Hot Hot";
+        
+
+
+

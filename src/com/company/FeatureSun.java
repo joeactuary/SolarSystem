@@ -1,6 +1,6 @@
 package com.company;
 
-public class featureSun {
+public class FeatureSun {
 
     String heat;
     String temp;
